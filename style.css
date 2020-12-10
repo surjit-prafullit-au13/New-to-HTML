@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(205, 241, 241);
+    font-family: cursive;
+}
+h1 {
+    color: rgb(97, 60, 5);
+    
+}
+h2 {
+    color: rgb(25, 92, 92); 
+    font-style: italic;
+}
+li, td ,a {
+    color: rgb(15, 108, 196);
+}
+a {
+    text-decoration: none;
+}
